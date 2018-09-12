@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/freemarker/freemarker.iml" filepath="$PROJECT_DIR$/freemarker/freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwtlearn/jwtlearn.iml" filepath="$PROJECT_DIR$/jwtlearn/jwtlearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pa/pa.iml" filepath="$PROJECT_DIR$/pa/pa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shriotest/shriotest.iml" filepath="$PROJECT_DIR$/shriotest/shriotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springredis.iml" filepath="$PROJECT_DIR$/springredis.iml" />
+    </modules>
+  </component>
+</project>
