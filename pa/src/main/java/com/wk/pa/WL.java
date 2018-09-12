@@ -13,9 +13,6 @@ import com.pajk.justice.openapi.biz.request.trade.b2c.BatchQueryB2CCarrierReques
  **/
 public class WL {
     public static void main(String[] args) {
-        JkClient jkClient = new JkClient("yanghuopu", "13b677b1f799511f1300cff5f71031c3", QueryEnv.PROD);
-        BatchQueryB2CCarrierRequest request = new BatchQueryB2CCarrierRequest();
-        BatchQueryB2CCarrierResult result = jkClient.execute(request);
-        System.out.println(result);
+       
     }
 }
